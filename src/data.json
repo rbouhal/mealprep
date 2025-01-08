@@ -1,0 +1,87 @@
+{
+    "breakfast": {
+      "Eggs + Avocado Bagels": ["eggs", "avocado", "bagels", "butter", "black pepper", "cream cheese"],
+      "Breakfast Burritos (Eggs/Potatoes/Meat)": ["eggs", "potatoes", "ground meat", "tortillas", "pico de gallo"],
+      "Peanut butter Protein Pancakes/Waffles with Eggs": ["peanut butter", "protein pancake mix", "eggs", "milk"],
+      "Breakfast Bowls": ["sweet potato", "zucchini", "veggies", "ground turkey", "eggs"],
+      "Baked Egg Bites (w/ cheese and or spinach)": ["eggs", "cheese", "spinach","peppers", "cottage cheese", "cooking spray"],
+      "Overnight oats with fruits": ["oats", "milk", "fruit mix", "chia seeds"],
+      "Yogurt parfait with fruits and granola": ["yogurt", "fruit mix", "granola", "honey"],
+      "Salmon bagel Sandwich": ["bagels", "smoked salmon", "cream cheese", "eggs", "avocado"],
+      "Grilled or breaded Chicken biscuits": ["chicken", "biscuits"],
+      "Acai berry smoothie bowl": ["acai smoothie bowls"],
+      "Shakshuka": ["eggs", "tomato sauce", "onions", "bell peppers", "olive oil"]
+    },
+    "lunch": {
+      "Turkey sandwich and chips": ["turkey", "bread", "chips", "mustard", "BBQ sauce"],
+      "Tomato soup and grilled cheese": ["tomato soup", "bread", "cheese", "butter", "croutons"],
+      "Chicken burrito bowl": ["chicken", "rice", "beans", "pico de gallo", "cheese"],
+      "Quesadillas": ["tortillas", "cheese", "sour cream", "pico de gallo"],
+      "The Classic": ["deli turkey", "cheese cubes", "grapes", "pretzel chips"],
+      "The Sweet classic": ["deli turkey", "pretzel chips", "apple", "peanut butter yogurt"],
+      "Bagel Box": ["smoked salmon", "cucumbers", "pita crackers", "dill cream cheese dip", "eggs"],
+      "Grilled chicken wraps": ["chicken", "tortillas", "lettuce", "tomatoes", "ranch"],
+      "Ramen with shredded beef and veggies": ["ramen noodles", "shredded steak", "veggies", "eggs", "yum yum sauce"]
+    },
+    "snacks": {
+      "Gogo squeeze": ["gogo squeeze pouch"],
+      "Strawberry apple sauce": ["strawberry apple sauce"],
+      "Clementines": ["clementines"],
+      "Apple slices and peanut butter": ["apple", "peanut butter"],
+      "Granola bars": ["granola bars"],
+      "Fruit cups": ["fruit cups"],
+      "Chips and guacamole": ["chips", "guacamole"],
+      "Carrots/celery/broccoli and ranch": ["carrots", "celery", "broccoli", "ranch"],
+      "Nuts and dried fruit": ["nuts", "dried fruit"],
+      "Trail mix": ["trail mix"],
+      "Fruit strips": ["fruit strips"],
+      "Chipotle dry rub seasoned fries": ["fries", "chipotle seasoning"]
+    },
+    "dinner": {
+      "Merguez with couscous and buttermilk": ["merguez sausage", "couscous", "buttermilk", "veggies"],
+      "Loaded Fries": ["fries", "cheese", "shredded steak", "sour cream", "pico de gallo"],
+      "Spaghetti and garlic bread": ["spaghetti", "marinara sauce", "garlic bread", "olive oil"],
+      "Beef (steak or roast beef) with mashed potatoes, carrots, asparagus": ["steak", "mashed potatoes", "carrots", "asparagus", "gravy"],
+      "Spanish garlic shrimp and rice": ["shrimp", "rice", "garlic", "olive oil", "veggies"],
+      "Shredded steak pho with veggies": ["shredded steak", "pho noodles", "veggies", "pho broth"],
+      "Salmon fillets dinner with veggies": ["salmon", "veggies", "lemon", "veggies", "garlic"],
+      "Burgers": ["ground beef", "buns", "lettuce", "tomato", "cheese", "mustard", "BBQ sauce"],
+      "Arroz texano": ["shredded beef", "chicken", "shrimp", "queso blanco", "tortillas", "rice"],
+      "Grilled Chicken breast (maybe stuffed) with veggies": ["chicken breast", "veggies", "mozzarella"],
+      "Garlic butter shrimp scampi": ["shrimp", "butter", "garlic", "pasta", "lemon", "parsley"],
+      "Chicken fettuccine Alfredo with broccoli": ["chicken", "fettuccine", "alfredo sauce", "broccoli"],
+      "Chicken katsu curry": ["chicken katsu", "curry sauce", "rice"],
+      "Beef stew with carrots and potatoes": ["beef chuck", "carrots", "potatoes", "broth"],
+      "BBQ wings with veggies and mash potatoes": ["wings", "BBQ sauce", "veggies", "mashed potatoes"],
+      "Birria taco night": ["chuck roast", "birria spices", "tortillas", "cheese"],
+      "Cod fish with cauliflower mash": ["cod", "cauliflower", "spinach", "lemon", "olive oil", "garlic"],
+      "Ground Lamb sliders": ["ground lamb", "slider buns", "cheese"],
+      "Puerto Rican corned beef hash and rice": ["corned beef", "potatoes", "rice", "avocado"],
+      "Chicken or beef shawarma": ["chicken or beef", "pita", "tahini sauce", "shawarma seasoning"],
+      "Fish n chips": ["breadded fish", "fries", "tar tar sauce"]
+    },
+    "drinks": {
+      "Fruit Smoothie (w/ yogurt)": ["fruit mix", "yogurt", "milk", "fruit juice"],
+      "Protein Chocky Milk from store": ["protein chocolate milk"],
+      "Thai Tea": ["thai tea mix", "milk"],
+      "Chai Tea (or latte)": ["chai tea mix", "milk"],
+      "Pomegranate Juice": ["pomegranate juice"],
+      "Got Milk?": ["milk"],
+      "Unsweetened tea": ["fruity tea from the store"],
+      "Carbonated water + syrup": ["carbonated water", "flavored syrup"]
+    },
+    "deserts": {
+      "High protein pumpkin bars": ["pumpkin puree", "protein powder", "almond butter", "honey", "pumpkin pie spice", "whipped cream"],
+      "Lemon cookies with cream cheese frosting": ["lemon", "flour", "powdered sugar", "cream cheese", "sugar", "eggs", "butter", "baking soda"],
+      "Fruity muffins": ["fruit mix", "muffin mix"],
+      "Greek yogurt cheesecake": ["greek yogurt", "butter", "sugar", "flour", "cream cheese", "graham crackers", "cornstarch"],
+      "Chocolate protein mousse": ["greek yogurt", "honey", "protein powder", "chocolate", "whipping cream", "fruit mix"],
+      "Fruit salad": ["fruit mix"],
+      "Caramel flan": ["caramel flan", "eggs", "milk"],
+      "Raspberry lemon Greek frozen yogurt bark": ["raspberries", "lemon", "yogurt"],
+      "Chocolate covered strawberries": ["strawberries", "chocolate"],
+      "Strawberry chocolate Greek yogurt bark": ["strawberries", "chocolate", "yogurt"],
+      "Granola and fruit yogurt popsicles": ["granola", "fruit mix", "yogurt"]
+    }
+  }
+  

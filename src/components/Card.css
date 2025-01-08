@@ -1,0 +1,46 @@
+.card {
+  width: 100%;
+  max-width: clamp(200px, 50vw, 300px); /* Adjust card width between 200px and 300px */
+  margin: 20px auto; /* Center the card */
+  border-radius: 8px; /* Rounded corners */
+  overflow: hidden; /* Clip content to border radius */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Add subtle shadow */
+  background-color: #18f83238; /* Background color */
+  text-align: center;
+  transform: translateY(20px); /* Start slightly below */
+  opacity: 0; /* Start fully transparent */
+  transition: transform 0.5s ease, opacity 0.5s ease; /* Smooth fade and slide effect */
+}
+
+.card.visible {
+  transform: translateY(0); /* Reset position */
+  opacity: 1; /* Fully visible */
+}
+
+.card:hover {
+  transform: scale(1.05); /* Slightly enlarge on hover */
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15); /* Stronger shadow on hover */
+}
+
+.card-image {
+  width: 100%; /* Make the image fill the card width */
+  height: clamp(150px, 15vw, 200px); /* Adjust image height between 150px and 200px */
+  object-fit: cover; /* Crop image to fit */
+}
+
+.card-content {
+  padding: clamp(10px, 2vw, 15px); /* Adjust padding for smaller screens */
+}
+
+.card-title {
+  font-size: clamp(1rem, 2vw, 1.25rem); /* Dynamically adjust title font size */
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.card-description {
+  font-size: clamp(0.8rem, 1.5vw, 1rem); /* Dynamically adjust description font size */
+  color: #555;
+  line-height: 1.5;
+}
